@@ -1,0 +1,5 @@
+
+height:10pt
+float:16.0
+string:pepe
+lists:['first','second']
